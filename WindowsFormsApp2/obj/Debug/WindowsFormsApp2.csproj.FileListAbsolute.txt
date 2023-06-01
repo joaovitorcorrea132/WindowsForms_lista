@@ -1,0 +1,11 @@
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\jvjoa\OneDrive\Área de Trabalho\VS\Winforms\ListView\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
